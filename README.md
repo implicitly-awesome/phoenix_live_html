@@ -1,5 +1,7 @@
 # PhoenixLiveHtml
 
+example code for my [article](https://medium.com/@andreichernykh/phoenix-briefly-how-to-generate-html-on-a-server-and-send-it-to-a-client-with-websocket-7f84822e511d)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
